@@ -1,0 +1,104 @@
+https://confluence.synchronoss.net:8443/display/MSGKNOW/General-BT
+
+
+BT environments & URLs 
+=======================
+
+
+REF
+=== 
+
+https://mail.bt-14678-ref.bt.com/mail/sso/
+
+Test accounts 
+
+ref-re-btp-001 to ref-re-btp-100
+
+ref-sa-btp-001 to ref-sa-btp-100
+
+Domain:
+bt-14678-ref.bt.com
+
+
+ref-re-btp-010@bt-14678-ref.bt.com
+ref-re-btp-011@bt-14678-ref.bt.com
+ 
+Password:
+sncrpassword
+
+accesspoints
+============
+
+mail.bt-14678-ref.bt.com
+https://mail.bt-14678-ref.bt.com:443/calendars/ref-re-btp-003@bt-14678-ref.bt.com
+https://mail.bt-14678-ref.bt.com:443/addressbook/ref-re-btp-003@bt-14678-ref.bt.com
+
+Prod 
+====
+
+
+https://mail.bt-14678-prod.bt.com/mail/sso/
+
+Test accounts
+-------------
+
+prod-re-btp-001 to prod-re-btp-100
+prod-sa-btp-001 to prod-sa-btp-100
+ 
+Domain:
+bt-14678-prod.bt.com
+ 
+Password:
+sncrpassword
+
+
+
+Lab environment 
+===============
+
+
+
+LAB -A
+
+https://maila.copernicus-lab.bt.com/mail/sso
+
+testlaba-btp-001@14678-laba.bt.com
+to
+testlaba-btp-010@14678-laba.bt.com
+
+testlaba-btp-009@14678-laba.bt.com
+
+
+LAB -B
+https://mailb.copernicus-lab.bt.com/mail/sso
+
+testlabb-btp-001@14678-labb.bt.com
+to
+testlabb-btp-010@14678-labb.bt.com
+
+testlabb-btp-009@14678-labb.bt.com
+
+to configure pop/imap incoming and out going server
+LabA
+maila.copernicus-lab.bt.com
+labB
+mailb.copernicus-lab.bt.com
+PROD
+bt-14678-prod.bt.com
+
+URLs for Caldev/cardev access
+for LAB A
+https://maila.copernicus-lab.bt.com:443/calendars/testlaba-btp-010@14678-laba.bt.com
+
+https://maila.copernicus-lab.bt.com:443/addressbook/testlaba-btp-010@14678-laba.bt.com
+
+For lab B
+
+https://mailb.copernicus-lab.bt.com:443/addressbook/testlabb-btp-010@14678-labb.bt.com
+
+https://mailb.copernicus-lab.bt.com:443/calendars/testlabb-btp-010@14678-labb.bt.com
+
+For PROD
+For PRo
+https://mail.bt-14678-prod.bt.com:443/calendars/prod-sa-btp-022@bt-14678-prod.bt.com
+https://mail.bt-14678-prod.bt.com:443/addressbook/prod-sa-btp-022@bt-14678-prod.bt.com
